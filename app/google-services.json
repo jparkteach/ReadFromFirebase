@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1079647102292",
+    "firebase_url": "https://readfromfirebase-cba46.firebaseio.com",
+    "project_id": "readfromfirebase-cba46",
+    "storage_bucket": "readfromfirebase-cba46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079647102292:android:80da9bdc444217f1",
+        "android_client_info": {
+          "package_name": "net.jptechnology.android.readfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079647102292-660flt2t43uduqcbtc9c146un221e5bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChNRRRqcbR5DRpCqu_LQ4XryfQR7_A6XU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
